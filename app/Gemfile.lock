@@ -1,3 +1,8 @@
+PATH
+  remote: lib/gem
+  specs:
+    tapapi (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -145,6 +150,7 @@ DEPENDENCIES
   sdoc (~> 0.4.0)
   spring
   sqlite3
+  tapapi (= 0.0.1)!
   turbolinks
   twitter
   uglifier (>= 1.3.0)
